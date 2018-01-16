@@ -44,7 +44,7 @@
                 "Floor9design\\MachineIdentifier"
             ],
             "aliases": {
-                "HtmlElements": "Floor9design\\MachineIdentifier"
+                "MachineIdentifier": "Floor9design\\MachineIdentifier"
             }
         },
         "providers": [
