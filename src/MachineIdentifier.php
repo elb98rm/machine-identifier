@@ -20,7 +20,7 @@
 namespace Floor9design\MachineIdentifier;
 
 /**
- * Class MachineIdentity
+ * Class MachineIdentifier
  *
  * This helper offers the uniqueMachineId function, allowing a machine-unique ID to be generated based on the
  * UUID given by the hard disk manufacturer.
