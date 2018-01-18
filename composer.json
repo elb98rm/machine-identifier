@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "floor9design\\machine-identifier\\": "src"
+            "Floor9design\\Machine-identifier\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "floor9design\\machine-identifier\\": "tests"
+            "Floor9design\\Machine-identifier\\": "tests"
         }
     },
     "scripts": {
