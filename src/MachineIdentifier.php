@@ -13,7 +13,7 @@
  * @version   0.1.0
  * @link      http://floor9design.com
  * @see       http://floor9design.com
- * @since     File available since Release 1.0
+ * @since     File available since Release 0.1.0
  *
  */
 
@@ -33,7 +33,7 @@ namespace Floor9design\MachineIdentifier;
  * @version   0.1.0
  * @link      http://floor9design.com
  * @see       http://floor9design.com
- * @since     File available since Release 1.0
+ * @since     File available since Release 0.1.0
  */
 class MachineIdentifier
 {
