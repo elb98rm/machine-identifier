@@ -6,7 +6,12 @@ Updates should follow the [Keep a CHANGELOG](http://keepachangelog.com/) princip
 
 ## Unreleased
 Tests under development.
-Final polish for official release.
+
+## [0.1.0]
+PSR issues with Laravel fixed 
+
+## [0.0.1]
+Some ongoing working on integration with Laravel. 
 
 ## [0.0.0]
 Basic development release. Software is working, but is missing tests and some polish. 

@@ -11,7 +11,7 @@ Via Composer
 $ composer require floor9design/machine-identifier
 ```
 
-The composer file includes laravel providers and aliases so it the class should be available. 
+Note, the composer file should be available in PSR4 compliant packages, such as Laravel, by default. 
 
 ## Usage
 
@@ -19,6 +19,15 @@ Instantiate the class as required.
 
 ```php
 $machine_identifier = new \Floor9design\MachineIdentifier\MachineIdentifier();
+```
+
+*or*
+```php
+Use \Floor9design\MachineIdentifier\MachineIdentifier;
+```
+and
+```php
+$machine_identifier = new MachineIdentifier();
 ```
 
 Generate a unique ID as follows:
@@ -33,7 +42,6 @@ Optionally a salt can be used to add further uniqueness:
 $id = $machine_identifier->uniqueMachineId($salt);
 ```
 
-
 ## Change log
 
 Please see [CHANGELOG](docs/CHANGELOG.md) for more information on what has changed recently.
@@ -43,6 +51,8 @@ Please see [CHANGELOG](docs/CHANGELOG.md) for more information on what has chang
 ``` bash
 $ composer test
 ```
+
+Testing is currently under development.
 
 ## Contributing
 
