@@ -10,7 +10,7 @@
  * @package   Floor9design\MachineIdentifier
  * @author    Rick Morice <rick@floor9design.com>
  * @license   MIT
- * @version   1.0
+ * @version   0.1.0
  * @link      http://floor9design.com
  * @see       http://floor9design.com
  * @since     File available since Release 1.0
@@ -30,7 +30,7 @@ namespace Floor9design\MachineIdentifier;
  * @author    Rick Morice <rick@floor9design.com>
  * @copyright Solderstar Ltd (solderstar.com)
  * @license   MIT
- * @version   1.0
+ * @version   0.1.0
  * @link      http://floor9design.com
  * @see       http://floor9design.com
  * @since     File available since Release 1.0
